@@ -69,7 +69,7 @@ header{
 .hero .content h1 {
     font-size: 80px;
     margin-top: 200px;
-    color: white;
+    color: tomato;
     z-index: 10;
 }
 .Services h1 {
@@ -93,7 +93,20 @@ header{
     transform: translateY(-10px);
 
 }
-
-/* .secondimg{ */
-    width: 10px;
+.servicesContainer div h2 {
+    color: tomato;
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
 }
+.About h1 {
+    text-align: center;
+    font-size: 50px;
+    color: tomato;
+}
+.AboutContainer div {
+    padding: 10px;
+    width: fit-content;
+    text-align: center;
+}
+
